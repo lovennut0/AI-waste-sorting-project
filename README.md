@@ -31,7 +31,15 @@ The predicted label helps determine the correct disposal type (e.g., recyclable,
 
 **link to access the dataset**
 
+*Waste dataset with labels*
+
+https://kaggle.com/datasets/bad582727c1add96b094a9b55d765b5925dafe68c54d53e0bb855c7dcd54fb85
+
+*Waste dataset no labels*
+
 https://www.kaggle.com/datasets/marshmelloo/wastesortingdataset?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=facebook&fbclid=IwY2xjawNuy29leHRuA2FlbQIxMQABHgSmQwlZB70IWnn0kAJVe3It1JQNQ47RgLvtEBmtfjaNs0CoSqcq29O30aMy_aem_hVofTQ-iweVjcQmVnwMHXw
+
+
 
 **Key Learning Outcomes**
 - Implemented a CNN for multi-class image classification.
